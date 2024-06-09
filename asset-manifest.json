@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jonas_Challenge_1/static/css/main.c3258e33.css",
+    "main.js": "/Jonas_Challenge_1/static/js/main.0703ec3c.js",
+    "index.html": "/Jonas_Challenge_1/index.html",
+    "main.c3258e33.css.map": "/Jonas_Challenge_1/static/css/main.c3258e33.css.map",
+    "main.0703ec3c.js.map": "/Jonas_Challenge_1/static/js/main.0703ec3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3258e33.css",
+    "static/js/main.0703ec3c.js"
+  ]
+}
